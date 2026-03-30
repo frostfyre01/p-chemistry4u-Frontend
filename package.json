@@ -1,0 +1,27 @@
+{
+  "name": "p-chemistry4u-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/roboto": "^5.2.10",
+    "@mui/icons-material": "^7.3.9",
+    "@mui/material": "^7.3.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^5.4.21"
+  },
+  "overrides": {
+    "react-is": "^18.3.1"
+  }
+}
